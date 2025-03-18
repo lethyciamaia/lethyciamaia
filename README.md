@@ -46,5 +46,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a>
 </p> 
+<p><strong>Note:</strong> <i>This is a new account; more projects (both old and new) will be added over time.</i> </p>
 </body>
 </html>
