@@ -10,7 +10,7 @@
 
 - 📚 I’m currently learning **Go**
 - 👩🏻‍🎓 I’m looking for **a 6-month internship** and **an apprenticeship** starting in September 2025
-- 🌎 Feel free to contact me in: **English, French or Portuguese!**
+- 🌎 Feel free to contact me in: **English, French, Spanish or Portuguese!**
 - 📫 How to reach me: lethycia.souza@ensta-paris.fr // lethyciamaia.souza@gmail.com
 
 <h3 align="left">You will probably see here:</h3>
@@ -44,6 +44,9 @@
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
 </a>
 </p> 
 <p><strong>Note:</strong> <i>This is a new account; more projects (both old and new) will be added over time.</i> </p>
