@@ -9,7 +9,7 @@
   Passionate about Interactive Systems, Cybersecurity, and Computer Networks.</h4>
 
 - 📚 I’m currently learning **Go**
-- 👩🏻‍🎓 I’m looking for **a 6-month internship** and **an apprenticeship** starting in September 2025
+- 👩🏻‍🎓 I’m looking for a **12-month apprenticeship** starting in September 2025
 - 🌎 Feel free to contact me in: **English, French, Spanish or Portuguese!**
 - 📫 How to reach me: lethycia.souza@ensta-paris.fr // lethyciamaia.souza@gmail.com
 
